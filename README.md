@@ -10,7 +10,7 @@
 
 熟悉flash基本概念，如舞台、时间轴、帧以及关键帧等。根据这些基本的概念，就可以上手做一个flash，如下图所示（有点粗糙）:
 
-![flash到处GIF](http://i11.tietuku.com/e093693b2b1a143d.gif)
+![flash导出GIF](http://i11.tietuku.com/e093693b2b1a143d.gif)
 
 ### 第二章
 
