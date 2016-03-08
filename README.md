@@ -50,6 +50,12 @@
 
 ![练习图片](http://pic.yupoo.com/reicky_v/FnSCKzxG/TtBBh.gif)
 
+### 随手练习2
+
+今天使用flash中的tween动画和图层中导向图层属性，制作了一个轨迹运动。
+
+![](http://pic.yupoo.com/reicky_v/FnVpgSlc/medium.jpg)
+
 
 
 
