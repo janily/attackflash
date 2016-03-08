@@ -46,9 +46,9 @@
 
 今天根据一个视频教程，学习了flash中画笔的使用，加强了关键帧的练习。
 
-制作了一个萌萌的跳舞小人。
+刚好是女生节，制作了一个萌萌的跳舞小人，女生节快乐。
 
-![练习图片](http://pic.yupoo.com/reicky_v/FnKTRjWM/aQdix.gif)
+![练习图片](http://pic.yupoo.com/reicky_v/FnSCKzxG/TtBBh.gif)
 
 
 
