@@ -54,7 +54,7 @@
 
 今天使用flash中的tween动画和图层中导向图层属性，制作了一个轨迹运动。
 
-![](http://pic.yupoo.com/reicky_v/FnVpgSlc/medium.jpg)
+![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1qler4wplg305s039jro.gif)
 
 
 
