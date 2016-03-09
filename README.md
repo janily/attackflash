@@ -56,6 +56,26 @@
 
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1qler4wplg305s039jro.gif)
 
+### 随手练习3
+
+继续练习，使用flash的tween动画做了个视差位移的动画效果，在一般的动效中这应该是一个必备的，场景转换就靠它了。
+
+flash越学越有意思了，作为一个内容创作工具，江还是老的辣。
+
+特别是在现今移动互联网时代，各种创意H5营销层出不穷，频频刷爆朋友圈。flash也与时俱进升级了flash功能，可以直接导出H5文件。
+
+flash这个老牌的内容创作工具也迸发出了新的生命力。重新找到了第二春！
+
+![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1qzapf32hg30dw07tn47.gif)
+
+
+
+
+
+
+
+
+
 
 
 
