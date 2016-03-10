@@ -68,6 +68,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1qzapf32hg30dw07tn47.gif)
 
+### 随手练习4
+
+利用TWEEN动画以及元素尺寸的属性配合，可以制作视角由远及近的动画效果。
+
+![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f1rq1sgzp9g30fa0b4gpo.gif)
 
 
 
