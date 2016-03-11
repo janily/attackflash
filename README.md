@@ -74,6 +74,12 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f1rq1sgzp9g30fa0b4gpo.gif)
 
+### 随手练习5
+
+继续练习flash中帧动画的制作。
+
+![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1spoovrlcg30dw07tweq.gif)
+
 
 
 
