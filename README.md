@@ -92,6 +92,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1wdgxq4g7g30dw07twf2.gif)
 
+具体结合音效的效果可以去[这里](http://v.qq.com/page/n/s/x/n0188rc2tsx.html)看下视频。
+
+这里推荐一个音频下载网站，非常不错都是免费下载的。
+
+
 
 
 
