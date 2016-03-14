@@ -86,6 +86,12 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww4.sinaimg.cn/large/0060lm7Tgw1f1tbei2gfyg30go0b4q32.gif)
 
+### 随手练习7
+
+继续练习flash中动画的制作。 今天学习了在flash中插入音频，在flash中可以根据动画场景来调整音频的播放，非常方便。
+
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1wdgxq4g7g30dw07twf2.gif)
+
 
 
 
