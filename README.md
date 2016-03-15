@@ -96,6 +96,14 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 这里推荐一个音频下载网站[freesound](http://freesound.org/)，非常不错都是免费下载的。
 
+### 随手练习8
+
+继续学习元件的使用方法，制作视差动画。
+
+![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1xn7g2u09g30vq0hukjn.gif)
+
+
+
 
 
 
