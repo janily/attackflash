@@ -100,7 +100,7 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 继续学习元件的使用方法，制作视差动画。
 
-![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f1xn7g2u09g30vq0hukjn.gif)
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1xnjjbp5hg30g50911kx.gif)
 
 
 
