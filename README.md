@@ -102,6 +102,14 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1xnjjbp5hg30g50911kx.gif)
 
+### 随手练习9
+
+练习遮罩蒙版的使用方法，可以很轻松的制作像下面这样的探照灯的效果。
+
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1y14jz0uqg308c062dft.gif)
+
+
+
 
 
 
