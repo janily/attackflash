@@ -108,6 +108,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1y14jz0uqg308c062dft.gif)
 
+### 随手练习10
+
+随手练习文字效果。
+
+![](http://ww4.sinaimg.cn/large/0060lm7Tgw1f1ymk3kl1cg308c06t3yg.gif)
 
 
 
