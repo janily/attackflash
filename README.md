@@ -120,6 +120,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f1z24nks4og30jy0cj0to.gif)
 
+### 随手练习12
+
+今天使用蒙版和画笔工具制作了一个树的生长动画效果，在flash中制作这样的动画非常容易，想想如果要是使用代码来实现这样的效果，可要花费蛮多工夫的，使用flash几分钟就搞定。
+
+![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f2286z9dg6g30dw0ciglk.gif)
 
 
 
