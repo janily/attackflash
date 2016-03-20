@@ -126,6 +126,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f2286z9dg6g30dw0ciglk.gif)
 
+### 随手练习13
+
+继续练习flash中蒙版动画制作，这回制作的是一个画线的小动画。其实延展开来，可以做很多有趣的动画，比如毛笔写字或者是画人像等等。越来越有趣了！！！
+
+![](http://ww4.sinaimg.cn/large/0060lm7Tgw1f23gy2kc9kg30hd0alh2q.gif)
 
 
 
