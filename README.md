@@ -132,8 +132,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww4.sinaimg.cn/large/0060lm7Tgw1f23gy2kc9kg30hd0alh2q.gif)
 
+### 随手练习14
 
+依然是绘制动画，这次在动画中加入了tween动画的曲线来控制动画的速度，还在摸索中。
 
+![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f23t19u16cg30fk0aldfn.gif)
 
 
 
