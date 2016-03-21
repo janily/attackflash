@@ -138,6 +138,12 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f23t19u16cg30fk0aldfn.gif)
 
+### 随手练习15
+
+利用帧动画，绘制一个小人行走的动画...没手的！！！细心加耐心...
+
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f24u8kh54kg30dw07taa1.gif)
+
 
 
 
