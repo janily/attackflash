@@ -157,7 +157,7 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 在做一件的事情过程中不断的给我带来惊喜，越来越有意思啦！
 
-![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f2ac7nscnng30o10dp75v.gif)
+![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f2ad4sex1gg30ga09rab7.gif)
 
 
 
