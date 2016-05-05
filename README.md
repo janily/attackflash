@@ -163,13 +163,11 @@ flash这个老牌的内容创作工具也迸发出了新的生命力。重新找
 
 这段时间animate cc更新蛮频繁的，对移动端以及动画的制作越来越强大。比如，在animate cc中可以直接引入第三方的js库来编写动画效果，如[tweenmax](http://www.greensock.com/)等。
 
-使用第三方的库加上在animate cc中可视化操作canvas元素，编写canvas动画从未如见简单。
+使用第三方的库加上在animate cc中可视化操作canvas元素，编写canvas动画从未如此简单。
 
 下面这个简单的例子，就是使用animate与[tweenmax](http://www.greensock.com/)这个动画库配合完成的
 
 ![](http://ww4.sinaimg.cn/large/0060lm7Tgw1f3ka1kdke7g30ap0ibq3h.gif)
-
-![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f3ka3dv7b8j30w40sp77o.jpg)
 
 
 
